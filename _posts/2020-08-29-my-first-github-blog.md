@@ -4,7 +4,7 @@ title:  "分享我的VPN選擇和購買經驗"
 author: sal
 categories: [ Lifestyle ]
 tags: [ GitHub ]
-image: assets/images/2.jpg
+image: assets/images/VPN.jpg
 rating: 4.5
 ---
 
@@ -39,7 +39,7 @@ rating: 4.5
 
 正確的聯盟行銷，應該是像這個作者那樣在每個聯盟行銷的鏈接作出“利益申報”：[國安法VPN：作為香港人的你是否需要？如果需要VPN應該點揀](https://upsangel.com/security/vpn/%E5%9C%8B%E5%AE%89%E6%B3%95-vpn-%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81-%E9%81%B8%E6%93%87/)
 
-更讓我發指的是我發現台灣有竟然以規模化這種無恥推銷方式的集團：
+大多數有良知的平台和作者都會在聯盟行銷時候說明自己是推銷。但不是每個人都有良知，更讓我發指的是我發現台灣有竟然以規模化這種無恥推銷方式的集團：
 
  - 每個網站的TEMPLATE樣式幾乎都一樣
  - 每個網站都是在推薦、但不會告訴你是推銷
