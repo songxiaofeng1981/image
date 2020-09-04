@@ -4,7 +4,7 @@ title:  "分享我的VPN選擇和購買經驗"
 author: sal
 categories: [ Lifestyle ]
 tags: [ GitHub ]
-image: assets/images/VPN.jpg
+image: assets/images/vpn.jpg
 rating: 4.5
 ---
 
