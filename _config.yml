@@ -1,11 +1,11 @@
 ﻿# Site
-name: "Memoirs"
-title: "Memoirs"
+name: "30歲學AI"
+title: "30歲學AI"
 description: "這是我第一個GITHUB BLOG"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-41378013-9'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
