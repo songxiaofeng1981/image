@@ -1,37 +1,28 @@
 ﻿# Site
-name: "30歲學AI"
-title: "30歲學AI"
-description: "這是我第一個GITHUB BLOG"
+name: "blog"
+title: "blog"
+description: "你被骗了"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-41378013-9'
+google_analytics: ''
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: agentbuya@gmail.com
+email: xiqu.wugou@gmail.com
 encoding: utf-8
 
 # Authors
 authors:
   sal:
-    name: Chris
-    display_name: Chris
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: agentbuya@gmail.com
-    web: https://agentbuya.github.io/
+    name: xiquwugou
+    display_name: xiquwugou
+    gravatar: ''
+    email: xiqu.wugou@gmail.com
+    web: https://songxiaofeng1981.github.io/image
     twitter: #
-    description: "一個努力的行外人"
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "圆明园是老佛爷的"
 
 # Plugins
 plugins:
