@@ -118,13 +118,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/Users/song/image-blog/tmp/image",
+=======
+    "last_opened_file_path": "C:/Users/song/image-blog/tmp/image/assets/images/my",
+>>>>>>> 2c543b713a73dfe5ffa344d07bb5b54e71d9c214
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
+=======
+      <recent name="C:\Users\song\image-blog\tmp\image\assets\images\my" />
+      <recent name="C:\Users\song\image-blog\tmp\image\_posts" />
+      <recent name="C:\Users\song\image-blog\image\_posts" />
+>>>>>>> 2c543b713a73dfe5ffa344d07bb5b54e71d9c214
       <recent name="C:\Users\song\image-blog\image\assets\images\my" />
       <recent name="C:\Users\song\image-blog\image\_posts" />
     </key>
@@ -196,14 +206,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661556050615</updated>
+<<<<<<< HEAD
       <workItem from="1661556052825" duration="5385000" />
+=======
+      <workItem from="1661556052825" duration="4047000" />
+      <workItem from="1661562066181" duration="2696000" />
+>>>>>>> 2c543b713a73dfe5ffa344d07bb5b54e71d9c214
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
 </project>
