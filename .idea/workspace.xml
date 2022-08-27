@@ -118,7 +118,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "C:/Users/song/image-blog/image/assets/images/my",
+    "last_opened_file_path": "C:/Users/song/image-blog/tmp/image",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -196,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661556050615</updated>
-      <workItem from="1661556052825" duration="4667000" />
+      <workItem from="1661556052825" duration="5385000" />
     </task>
     <servers />
   </component>
