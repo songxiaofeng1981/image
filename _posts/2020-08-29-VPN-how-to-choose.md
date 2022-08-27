@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title:  "缺电了"
+image: assets/images/my/20200814_IMG_7240.JPG
 categories: [ Lifestyle ]
 tags: [ GitHub ]
 rating: 4.5
